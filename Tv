@@ -1,0 +1,531 @@
+
+#EXTM3U
+
+#EXTINF:0,LATINO -  AZ MAS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30642.ts
+#EXTINF:0,LATINO -  AZ UNO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30641.ts
+#EXTINF:0,LATINO -  AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30640.ts
+#EXTINF:0,LATINO -  AZTECA 13 (MEXICO)
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30639.ts
+#EXTINF:0,LATINO -  AZTECA CINEMA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30638.ts
+#EXTINF:0,LATINO -  AZTECA CORAZON
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30637.ts
+#EXTINF:0,LATINO -  CANAL DE LAS ESTRELLAS.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30675.ts
+#EXTINF:0,LATINO -  CINE LATINO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30633.ts
+#EXTINF:0,LATINO -  COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30615.ts
+#EXTINF:0,LATINO -  FORO TV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30672.ts
+#EXTINF:0,LATINO -  NU9VE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30655.ts
+#EXTINF:0,LATINO -  HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30627.ts
+#EXTINF:0,LATINO -  TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30680.ts
+#EXTINF:0,LATINO -  TELNOVELAS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30679.ts
+#EXTINF:0,LATINO -  UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30678.ts
+#EXTINF:0,LATINO -  UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30676.ts
+#EXTINF:0,LATINO -  AXN
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30666.ts
+#EXTINF:0,LATINO -  E! ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30659.ts
+#EXTINF:0,LATINO -  SONY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30657.ts
+#EXTINF:0,LATINO -  STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30652.ts
+#EXTINF:0,LATINO -  TNT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30668.ts
+#EXTINF:0,LATINO -  TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30667.ts
+#EXTINF:0,LATINO -  UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30677.ts
+#EXTINF:0,LATINO -  WARNER CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30674.ts
+#EXTINF:0,LATINO -  AMC
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30644.ts
+#EXTINF:0,LATINO -  CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30632.ts
+#EXTINF:0,LATINO -  CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30631.ts
+#EXTINF:0,LATINO -  FOX
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30665.ts
+#EXTINF:0,LATINO -  FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30660.ts
+#EXTINF:0,LATINO -  FOX PREMIUM ACTION
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30663.ts
+#EXTINF:0,LATINO -  FOX PREMIUM CINEMA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/nicu/123456/68536
+#EXTINF:0,LATINO -  FOX PREMIUM CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/Kimbo/Kimbo/16264
+#EXTINF:0,LATINO -  FOX PREMIUM COMEDY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30587.ts
+#EXTINF:0,LATINO -  FOX PREMIUM FAMILY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30586.ts
+#EXTINF:0,LATINO -  FOX PREMIUM MOVIES
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30664.ts
+#EXTINF:0,LATINO -  FOX PREMIUM SERIES
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30584.ts
+#EXTINF:0,LATINO -  FX
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30656.ts
+#EXTINF:0,LATINO -  FXM
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30673.ts
+#EXTINF:0,LATINO -  GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30653.ts
+#EXTINF:0,LATINO -  GOLDEN PREMIER
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30635.ts
+#EXTINF:0,LATINO -  HBO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30601.ts
+#EXTINF:0,LATINO -  HBO 2
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30600.ts
+#EXTINF:0,LATINO -  HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30599.ts
+#EXTINF:0,LATINO -  HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://kimbogrupol.com:25461/Kimbo/Kimbo/16269
+#EXTINF:0,LATINO -  HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30597.ts
+#EXTINF:0,LATINO -  LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30658.ts
+#EXTINF:0,LATINO -  MAX PRIME
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30625.ts
+#EXTINF:0,LATINO -  PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30621.ts
+#EXTINF:0,LATINO -  SPACE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30619.ts
+#EXTINF:0,LATINO -  SYFY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30671.ts
+#EXTINF:0,LATINO -  TCM
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30670.ts
+#EXTINF:0,LATINO -  ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30608.ts
+#EXTINF:0,LATINO -  A&E
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30645.ts
+#EXTINF:0,LATINO -  DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30606.ts
+#EXTINF:0,LATINO -  DISCOVERY  H&H
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30607.ts
+#EXTINF:0,LATINO -  DISCOVERY SCIENCE.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30604.ts
+#EXTINF:0,LATINO -  DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30603.ts
+#EXTINF:0,LATINO -  FILM & ARTS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30643.ts
+#EXTINF:0,LATINO -  HISTORY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30628.ts
+#EXTINF:0,LATINO -  INVESTIGATION DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30602.ts
+#EXTINF:0,LATINO -  NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30609.ts
+#EXTINF:0,LATINO -  NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30610.ts
+#EXTINF:0,LATINO -  TLC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/nicu/123456/80180
+#EXTINF:0,LATINO -  CNN Ñ
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/nicu/123456/149939
+#EXTINF:0,LATINO -  CNN CHILE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30629.ts
+#EXTINF:0,LATINO - DW ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,LATINO -  TELESUR
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30549.ts
+#EXTINF:0,LATINO -  HTV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30626.ts
+#EXTINF:0,LATINO -  MTV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30622.ts
+#EXTINF:0,LATINO -  TELERITMO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30651.ts
+#EXTINF:0,LATINO -  TOP LATINO
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30650.ts
+#EXTINF:0,LATINO -  MUSICTOP
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30649.ts
+#EXTINF:0,LATINO -  VH1
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30648.ts
+#EXTINF:0,LATINO -  BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30613.ts
+#EXTINF:0,LATINO -  CARTOON NETWORK.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30614.ts
+#EXTINF:0,LATINO -  DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30605.ts
+#EXTINF:0,LATINO -  DISNEY CHANNEL.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30616.ts
+#EXTINF:0,LATINO -  DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30612.ts
+#EXTINF:0,LATINO -  DISNEY XD.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30611.ts
+#EXTINF:0,LATINO -  NICK JR
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30618.ts
+#EXTINF:0,LATINO -  NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30617.ts
+#EXTINF:0,LATINO -  BEIN ñ
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/nicu/123456/116125
+#EXTINF:0,LATINO -  CLARO SPORTS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30630.ts
+#EXTINF:0,LATINO -  ESPN
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30583.ts
+#EXTINF:0,LATINO -  ESPN 2.
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30582.ts
+#EXTINF:0,LATINO -  ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30581.ts
+#EXTINF:0,LATINO -  FOX SPORT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30580.ts
+#EXTINF:0,LATINO -  FOX SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30579.ts
+#EXTINF:0,LATINO -  WIN SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/30647.ts
+#EXTINF:0,SP - LA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21367.ts
+#EXTINF:0,SP - LA 2
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21366.ts
+#EXTINF:0,SP - LA SEXTA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21365.ts
+#EXTINF:0,SP - ANTENA 3 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21364.ts
+#EXTINF:0,SP - CUATRO HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21363.ts
+#EXTINF:0,SP - TELECINCO HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21362.ts
+#EXTINF:0,SP - CANAL 24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21361.ts
+#EXTINF:0,SP - 24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21360.ts
+#EXTINF:0,SP - TVE INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21359.ts
+#EXTINF:0,SP - FDF
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21358.ts
+#EXTINF:0,SP - CLAN TVE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21357.ts
+#EXTINF:0,SP - HOLLYWOOD HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21356.ts
+#EXTINF:0,SP - IBERALIA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21355.ts
+#EXTINF:0,SP - BABY TV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21353.ts
+#EXTINF:0,SP - BOING
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21352.ts
+#EXTINF:0,SP - CANAL PANDA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21351.ts
+#EXTINF:0,SP - COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21350.ts
+#EXTINF:0,SP - DISNEY HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21349.ts
+#EXTINF:0,SP - DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21348.ts
+#EXTINF:0,SP - DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21347.ts
+#EXTINF:0,SP - NICKELODEON  HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21346.ts
+#EXTINF:0,SP - BAR TV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21314.ts
+#EXTINF:0,SP - EUROSPORT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21319.ts
+#EXTINF:0,SP - EUROSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21320.ts
+#EXTINF:0,SP - EUROSPORT 3
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21318.ts
+#EXTINF:0,SP - FORMULA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21317.ts
+#EXTINF:0,SP - GOL
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21316.ts
+#EXTINF:0,SP - LA LIGA 123 TV HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/29851.ts
+#EXTINF:0,SP - LA LIGA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21310.ts
+#EXTINF:0,SP - LA LIGA TV HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21311.ts
+#EXTINF:0,SP - M. FORMULA 1
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21299.ts
+#EXTINF:0,SP - M. FTBOL HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21298.ts
+#EXTINF:0,SP - M. GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21309.ts
+#EXTINF:0,SP - M. PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21308.ts
+#EXTINF:0,SP - M.CAMPEONES HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21321.ts
+#EXTINF:0,SP - MOTOGP HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21288.ts
+#EXTINF:0,SP - R. MADRID TV
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21313.ts
+#EXTINF:0,SP - TOROS HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21312.ts
+#EXTINF:0,SP - M. DEP2 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21293.ts
+#EXTINF:0,SP - M. DEPORTE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21292.ts
+#EXTINF:0,SP - TELE DEPORTE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21291.ts
+#EXTINF:0,SP - FOX HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21344.ts
+#EXTINF:0,SP - FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21343.ts
+#EXTINF:0,SP - FOX NEWS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21342.ts
+#EXTINF:0,SP - 0 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21341.ts
+#EXTINF:0,SP - AMC HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21340.ts
+#EXTINF:0,SP - ARAGON
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21339.ts
+#EXTINF:0,SP - AXN HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21337.ts
+#EXTINF:0,SP - AXN
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21338.ts
+#EXTINF:0,SP - AXN WHITE HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21336.ts
+#EXTINF:0,SP - SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21279.ts
+#EXTINF:0,SP - TCM HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21278.ts
+#EXTINF:0,SP - TNT HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21277.ts
+#EXTINF:0,SP - BE MAD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21335.ts
+#EXTINF:0,SP - BLAZE
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21334.ts
+#EXTINF:0,SP - CALLE 13 HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21333.ts
+#EXTINF:0,SP - CANAL COCINA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21332.ts
+#EXTINF:0,SP - CANAL DECASA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21331.ts
+#EXTINF:0,SP - CANAL ODISEA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21330.ts
+#EXTINF:0,SP - CANAL SUR
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21329.ts
+#EXTINF:0,SP - CAZA Y PESCA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21328.ts
+#EXTINF:0,SP - CLASSICA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21327.ts
+#EXTINF:0,SP - COSMO HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21326.ts
+#EXTINF:0,SP - CRIMEN Y INVES
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21325.ts
+#EXTINF:0,SP - DIVINITY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21324.ts
+#EXTINF:0,SP - ENERGY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21323.ts
+#EXTINF:0,SP - M. ACCION HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21306.ts
+#EXTINF:0,SP - M. CINE ESP
+#EXTVLCOPT:network-caching=1000
+http:// -ott.net:80/live/Giacomo/Giacomo/21305.ts
+#EXTINF:0,SP - M. COMEDIA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21304.ts
+#EXTINF:0,SP - M. DCINE HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21303.ts
+#EXTINF:0,SP - M. DISNEY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21302.ts
+#EXTINF:0,SP - M. ESTRENOS HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21301.ts
+#EXTINF:0,SP - M. FAMA 24
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21300.ts
+#EXTINF:0,SP - M. SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21297.ts
+#EXTINF:0,SP - M. SERIES XTRA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21296.ts
+#EXTINF:0,SP - M. XTRA HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21295.ts
+#EXTINF:0,SP - MEZZO LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21289.ts
+#EXTINF:0,SP - MTV ROCKS
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21287.ts
+#EXTINF:0,SP - DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21285.ts
+#EXTINF:0,SP - HISTORIA
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21315.ts
+#EXTINF:0,SP - NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21284.ts
+#EXTINF:0,SP - NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21283.ts
+#EXTINF:0,SP - NAT WILD HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21282.ts
+#EXTINF:0,SP - NEOX
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21281.ts
+#EXTINF:0,SP - PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21280.ts
+#EXTINF:0,SP - VH1
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21276.ts
+#EXTINF:0,SP - VIAJAR HD
+#EXTVLCOPT:network-caching=1000
+http://magnum-ott.net:80/live/Giacomo/Giacomo/21275.ts
